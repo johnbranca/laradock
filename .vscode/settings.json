@@ -2,4 +2,21 @@
     "files.associations": {
         "Dockerfile-*": "dockerfile"
     },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#6a40ef",
+        "activityBar.activeBackground": "#6a40ef",
+        "activityBar.activeBorder": "#f0754f",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#f0754f",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#4713e9",
+        "titleBar.inactiveBackground": "#4713e999",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#4713e9",
+        "statusBarItem.hoverBackground": "#6a40ef",
+        "statusBar.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#4713e9",
 }
